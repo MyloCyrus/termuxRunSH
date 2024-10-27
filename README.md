@@ -1,6 +1,6 @@
 Easy Termux copy and paste command for display over other apps and battery optimization.
 git clone this repo
-cd termuxRunSH
+cd termuxRunSH设置存储
 bash run7.sh
 or copy and paste from below:
 
